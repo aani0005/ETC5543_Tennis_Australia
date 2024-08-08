@@ -1,0 +1,95 @@
+---
+title: "Predictive Analysis for Racquet Recommendation"
+author: "Aishwarya Anil Kumar"
+date: "2024"
+format: 
+  revealjs:
+    theme: solarized
+    slideNumber: true
+    transition: fade
+    header-includes: |
+      <style>
+        .logo {
+          position: absolute;
+          top: 0;
+          right: 0;
+          margin: 10px !important;
+          width: 100px !important;
+          height: 100px !important;
+        }
+      </style>
+---
+
+# Introduction
+
+<img src="images/logo.png" alt="Tennis Australia Logo" class="logo"/>
+
+Welcome to this presentation on predictive analysis for racquet recommendations at Tennis Australia.
+
+<img src="images/ao_court.jpg" alt="court Logo" class="court"/>
+
+---
+
+# Project Overview
+
+<img src="images/logo.png" alt="Tennis Australia Logo" class="logo"/>
+
+- **Objective**: Develop predictive models to recommend the best racquets based on player data.
+- **Tools**: Python, R, Machine Learning algorithms.
+- **Outcome**: Data-driven insights for personalized racquet selection.
+
+---
+
+# Data Collection
+
+<img src="images/logo.png" alt="Tennis Australia Logo" class="logo"/>
+
+- **Player Data**: Historical performance, playing style, and physical characteristics.
+- **Data Sources**: Tennis Australia’s player database, match statistics, surveys.
+
+---
+
+# Methodology
+
+<img src="images/logo.png" alt="Tennis Australia Logo" class="logo"/>
+
+1. Data Preprocessing
+   - Cleaning and normalizing data
+   - Feature engineering
+2. Model Development
+   - Machine learning models (e.g., Random Forest, SVM)
+   - Model validation and tuning
+3. Predictive Analysis
+   - Predicting optimal racquet type for different player profiles
+
+---
+
+# Results
+
+<img src="images/logo.png" alt="Tennis Australia Logo" class="logo"/>
+
+- **Model Performance**: 
+  - Accuracy: %
+  - Precision: %
+  - Recall: %
+- **Key Findings**:
+  - Player style is the most significant factor.
+  - Lightweight racquets are preferred for aggressive players.
+
+---
+
+# Conclusion
+
+<img src="images/logo.png" alt="Tennis Australia Logo" class="logo"/>
+
+- **Impact**: Improved player performance and satisfaction through personalized equipment recommendations.
+- **Future Work**: Integrate real-time match data for dynamic recommendations.
+
+---
+
+# Questions?
+
+<img src="images/logo.png" alt="Tennis Australia Logo" class="logo"/>
+
+Thank you for your attention. Feel free to ask any questions.
+
